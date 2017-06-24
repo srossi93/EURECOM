@@ -4,3 +4,6 @@
 [submodule "AlgorithmicMachineLearning"]
 	path = AlgorithmicMachineLearning
 	url = https://github.com/srossi93/EURECOM_AML
+[submodule "ComputationalMethods"]
+	path = ComputationalMethods
+	url = https://github.com/srossi93/EURECOM_CompMeth
