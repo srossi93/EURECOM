@@ -1,0 +1,3 @@
+[submodule "AdvancedStatisticalInference"]
+  path = AdvancedStatisticalInference
+  url = https://github.com/srossrossi93/EURECOM_ASI
