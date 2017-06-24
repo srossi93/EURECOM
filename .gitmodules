@@ -1,3 +1,6 @@
 [submodule "AdvancedStatisticalInference"]
 	path = AdvancedStatisticalInference
 	url = https://github.com/srossi93/EURECOM_ASI
+[submodule "AlgorithmicMachineLearning"]
+	path = AlgorithmicMachineLearning
+	url = https://github.com/srossi93/EURECOM_AML
