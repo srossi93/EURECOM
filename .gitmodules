@@ -7,3 +7,6 @@
 [submodule "ComputationalMethods"]
 	path = ComputationalMethods
 	url = https://github.com/srossi93/EURECOM_CompMeth
+[submodule "LearningToDrive"]
+	path = LearningToDrive
+	url = https://github.com/srossi93/LearningToDrive
