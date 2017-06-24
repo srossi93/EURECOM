@@ -10,3 +10,6 @@
 [submodule "LearningToDrive"]
 	path = LearningToDrive
 	url = https://github.com/srossi93/LearningToDrive
+[submodule "UMLforEmbeddedSystems"]
+	path = UMLforEmbeddedSystems
+	url = https://github.com/srossi93/EURECOM_UMLEmb
