@@ -16,3 +16,6 @@
 [submodule "OperatingSystems"]
 	path = OperatingSystems
 	url = https://github.com/srossi93/EURECOM_OS
+[submodule "ComputerArchitectures"]
+	path = ComputerArchitectures
+	url = https://github.com/srossi93/EURECOM_CompArch
